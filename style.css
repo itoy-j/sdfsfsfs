@@ -1,0 +1,31 @@
+.info {
+  width: 50%;
+}
+.mydivision {
+  display: flex;
+  flex: 2;
+  border-bottom-width: 1px;
+  border-bottom-color: "gray";
+  /* background-color: blue; */
+  width: 45%;
+  height: 500px;
+}
+.info {
+  width: 50%;
+  height: 100%;
+}
+
+.subheading {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.infosecond {
+  /* background-color: aquamarine; */
+  display: flex;
+  flex-direction: column;
+}
+.subheading .headline {
+  background-color: blue;
+  /* width: 100%; */
+}
